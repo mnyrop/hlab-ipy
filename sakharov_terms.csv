@@ -1,0 +1,70 @@
+,id,acronym,def
+0,frus1969-76v13#t_Deptoff1,Deptoff,Department officer
+1,frus1969-76v13#t_FYI1,FYI,for your information
+2,frus1969-76v13#t_Noforn1,Noforn,no foreign distribution
+3,frus1969-76v13#t_UN1,UN,United Nations
+4,frus1969-76v13#t_US1,US,United States
+5,frus1969-76v13#t_USG1,USG,United States Government
+6,frus1969-76v13#t_USSR1,USSR,Union of Soviet Socialist Republics
+7,frus1969-76v16#t_DOD_1,DOD,Department of Defense
+8,frus1969-76v16#t_FBS_1,FBS,forward-based systems
+9,frus1969-76v16#t_IBM_1,IBM,International Business Machines Corporation
+10,frus1969-76v16#t_ICBM_1,ICBM,intercontinental ballistic missile
+11,frus1969-76v16#t_JCS_1,JCS,Joint Chiefs of Staff
+12,frus1969-76v16#t_MFN_1,MFN,Most Favored Nation
+13,frus1969-76v16#t_MIRV_1,MIRV,multiple independently-targetable re-entry vehicle
+14,frus1969-76v16#t_NATO_1,NATO,North Atlantic Treaty Organization
+15,frus1969-76v16#t_SALT_1,SALT,Strategic Arms Limitation Talks
+16,frus1969-76v16#t_SLBM_1,SLBM,submarine-launched ballistic missile
+17,frus1969-76v16#t_TASS_1,TASS,Telegrafnoe Agenstvo Sovetskogo Soyuza (Telegram Agency of the Soviet Union)
+18,frus1969-76v16#t_UK_1,UK,United Kingdom
+19,frus1969-76v16#t_US_1,US,United States
+20,frus1977-80v01#t_AP_1,AP,Associated Press
+21,frus1977-80v01#t_B1_1,B-1,American long-range bomber
+22,frus1977-80v01#t_CBS_1,CBS,Columbia Broadcasting System
+23,frus1977-80v01#t_CDU_1,CDU,Christlich-Demokratische Union (Christian Democratic Union)
+24,frus1977-80v01#t_CSU_1,CSU,Christlich-Soziale Union (Christian Social Union)
+25,frus1977-80v01#t_CTB_1,CTB,Comprehensive Test Ban
+26,frus1977-80v01#t_EC_1,EC,European Community
+27,frus1977-80v01#t_FRG_1,FRG,Federal Republic of Germany
+28,frus1977-80v01#t_IOC_1,IOC,International Olympics Committee
+29,frus1977-80v01#t_MBFR_1,MBFR,mutual and balanced force reductions
+30,frus1977-80v01#t_NATO_1,NATO,North Atlantic Treaty Organization
+31,frus1977-80v01#t_NSC_1,NSC,National Security Council
+32,frus1977-80v01#t_PRC_1,PRC,"People's Republic of China; also, Policy Review Committee"
+33,frus1977-80v01#t_SALT_1,SALT,Strategic Arms Limitation Treaty
+34,frus1977-80v01#t_SPD_1,SPD,Sozial Demokratische Partei Deutschlands (Social Democratic Party of [West] Germany)
+35,frus1977-80v01#t_UPI_1,UPI,United Press International
+36,frus1977-80v01#t_USSR_1,USSR,Union of Soviet Socialist Republics
+37,frus1977-80v01#t_US_1,US,United States
+38,frus1977-80v02#t_ARA_1,ARA,"or ARA/LA, Bureau of Inter-American Affairs, Department of State/Bureau for Latin America, Agency for International Development"
+39,frus1977-80v02#t_CSCE_1,CSCE,Conference on Security and Cooperation in Europe
+40,frus1977-80v02#t_DA_1,DA,David Aaron
+41,frus1977-80v02#t_ECOSOC_1,ECOSOC,United Nations Economic and Social Council
+42,frus1977-80v02#t_FMS_1,FMS,foreign military sales
+43,frus1977-80v02#t_FY_1,FY,fiscal year
+44,frus1977-80v02#t_HA_1,HA,"Bureau of Human Rights and Humanitarian Affairs, Department of State"
+45,frus1977-80v02#t_IDCA_1,IDCA,International Development Cooperation Agency
+46,frus1977-80v02#t_IFIs_1,IFIs,international financial institutions
+47,frus1977-80v02#t_IO_1,IO,"Bureau of International Organization Affairs, Department of State"
+48,frus1977-80v02#t_NGO_1,NGO,non-governmental organization
+49,frus1977-80v02#t_NSC_1,NSC,National Security Council
+50,frus1977-80v02#t_OAS_1,OAS,Organization of American States
+51,frus1977-80v02#t_OMB_1,OMB,Office of Management and Budget
+52,frus1977-80v02#t_OPIC_1,OPIC,Overseas Private Investment Corporation
+53,frus1977-80v02#t_PRM_1,PRM,Presidential Review Memorandum
+54,frus1977-80v02#t_UNGA_1,UNGA,United Nations General Assembly
+55,frus1977-80v02#t_UN_1,UN,United Nations
+56,frus1977-80v02#t_US_1,US,United States
+57,frus1977-80v02#t_ZB_1,ZB,Zbigniew Brzezinski
+58,frus1977-80v30#t_ASNE_1,ASNE,American Society of Newspaper Editors
+59,frus1977-80v30#t_FRG_1,FRG,Federal Republic of Germany
+60,frus1977-80v30#t_NATO_1,NATO,North Atlantic Treaty Organization
+61,frus1977-80v30#t_Reforger_1,Reforger,return of forces to Germany
+62,frus1977-80v30#t_TV_1,TV,television
+63,frus1977-80v30#t_UN_1,UN,United Nations
+64,frus1977-80v30#t_USG_1,USG,United States Government
+65,frus1977-80v30#t_USOC_1,USOC,United States Olympic Committee
+66,frus1977-80v30#t_USSR_1,USSR,Union of Soviet Socialist Republics
+67,frus1977-80v30#t_VE_1,V-E,"Victory in Europe Day VIP, very important person VISTA, Volunteers in Service to America VOA, Voice of America VPS, Visitor Program Service VTR, video tape recording"
+68,frus1977-80v30#t_VOA_1,VOA,Voice of America
