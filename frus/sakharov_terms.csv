@@ -1,0 +1,149 @@
+,id,acronym,def
+0,t_AP_1,AP,Associated Press
+1,t_ARA_1,ARA,"or ARA/LA, Bureau of Inter-American Affairs, Department of State/Bureau for Latin America, Agency for International Development"
+2,t_ASNE_1,ASNE,American Society of Newspaper Editors
+3,t_B1_1,B-1,"American long-range bomber
+BA, Bachelor of Arts
+BBC, British Broadcasting Corporation
+BFS, Board of Foreign Scholarships
+BIB, Board for International Broadcasting
+BJ, Barry Jagoda BNC, bi-national center (USIS)"
+4,t_CBS_1,CBS,Columbia Broadcasting System
+5,t_CDU_1,CDU,"Christliche Demokratische Union (Christian Democratic Union), West German political party"
+6,t_CSCE_1,CSCE,Conference for Security and Cooperation in Europe
+7,t_CSU_1,CSU,"Christliche-Soziale Union (Christian Social Union, West Germany)"
+8,t_CTB_1,CTB,comprehensive test ban
+9,t_DA_1,DA,"D, Democrat; Deputy Secretary of State , Department of the Army DAO
+, Defense Attache Office DAS
+, Departamento Administrativa de Seguidad (Administrative Security Department), Colombia DATT
+, Defense Attache DC
+, developed country DCI , Director of Central Intelligence DCM
+, Deputy Chief of Mission DDI
+, Deputy Director of Intelligence, Central Intelligence Agency DDO
+, Deputy Director of Operations, Central Intelligence Agency DEA
+, Drug Enforcement Administration DEFATT
+, Defense Attache D/HA
+, Coordinator for Humanitarian Affairs, Department of State D/HA/ORM
+, Office of the Coordinator for Refugee and Migration Affairs, Department of State D/HR
+, Deputy Coordinator for Human Rights, Department of State DIA
+, Defense Intelligence Agency DINA
+, Direccion de Inteligencia Nacional, National Intelligence Directorate, Chile Dissem
+, dissemination D/LOS
+, Staff Director, NSC Interagency Task Force on Law of the Sea DOD
+, Department of Defense DOD/ISA
+, Bureau of International Security Affairs, Department of Defense DOD/OSD
+, Office of the Secretary of Defense Dols
+, Dollars"
+10,t_DOD_1,DOD,Department of Defense
+11,t_Deptoff1,Deptoff,Department of State officer
+12,t_ECOSOC_1,ECOSOC,Economic and Social Council (United Nations)
+13,t_EC_1,EC,"Executive Council (Rhodesia) ERDA, Energy Research and Development Administration Exdis, exclusive distribution EXIM, Export-Import Bank"
+14,t_FBS_1,FBS,forward-basing system
+15,t_FMS_1,FMS,foreign military sales
+16,t_FRG_1,FRG,Federal Republic of Germany (West Germany)
+17,t_FYI1,FYI,for your information
+18,t_FY_1,FY,fiscal year
+19,t_HA_1,HA,"H, Alexander M. Haig, Jr.; also, Office of the Assistant Secretary of State for Congressional Relations
+, Bureau of Human Rights and Humanitarian Affairs, Department of State
+HARM, High-Speed Anti-Radiation Missile
+Harpoon, U.S. anti-ship missile
+Harrier, British fighter aircraft
+Hawk, U.S. medium-range surface-to-air missile; U.K. jet trainer aircraft
+hdqtrs, headquarters
+helos, helicopters
+HF, high frequency
+H-K, Humphrey-Kennedy Amendment
+HM, Her Majesty('s)
+HMG, Her Majesty's Government (UK)
+HMS, Her Majesty's Ship (UK)"
+20,t_IBM_1,IBM,International Business Machines Corporation
+21,t_ICBM_1,ICBM,inter-continental ballistic missiles
+22,t_IDCA_1,IDCA,International Development Corporation Agency
+23,t_IFIs_1,IFIs,international financial institutions
+24,t_IOC_1,IOC,International Olympics Committee
+25,t_IO_1,IO,"information officer, United States Information Agency; also, Bureau of International Organization Affairs, Department of State"
+26,t_JCS_1,JCS,"Joint Chiefs of Staff
+JO, Junior Officer"
+27,t_MBFR_1,MBFR,"Mutual and Balanced Force Reductions
+MDS, Marshall D. Shulman
+memcon, memorandum of conversation
+MFA, Ministry of Foreign Affairs
+MHD, magnetohydrodynamics
+MIRV, multiple independently-targeted re-entry vehicle
+MOLINK, Moscow Link (Moscow-Washington Direct Communication Link or Hot Line)
+MPLA, Movimento Popular para a Libertacao de Angola (People's Movement for the Liberation of Angola)"
+28,t_MFN_1,MFN,Most Favored Nation
+29,t_MIRV_1,MIRV,multiple independently-targetable re-entry vehicles
+30,t_NATO_1,NATO,"North Atlantic Treaty Organization NMCC, National Military Command Center NNF, Namibia National Front Nodis, no distribution Noforn, no foreign dissemination NPT, Non-Proliferation Treaty NRC, Nuclear Regulatory Commission NSC, National Security Council NSDM, National Security Decision Memorandum"
+31,t_NGO_1,NGO,non-governmental organization
+32,t_NSC_1,NSC,National Security Council; also national supervisory committee
+33,t_Noforn1,Noforn,"no foreign dissemination (acronym indicating that the document may not be disseminated to any foreigner, either in the U.S. or overseas)"
+34,t_OAS_1,OAS,"Organization of American States
+OASGA, Organization of American States General Assembly
+OD, Operating Directive
+OEOB, Old Executive Office Building
+OES, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State
+OES/EN, Directorate for Environmental Affairs, Office of Environmental and Population Affairs, Bureau of Oceans and International Environmental and Scientific Affairs, Department of State
+OJCS, Office of the Joint Chiefs of Staff
+OMB, Office of Management and Budget
+OPIC, Overseas Private Investment Corporation
+OPR/LS, Office of Language Services, Bureau of Administration, Department of State ORCON, Dissemination and extraction of information controlled by originator
+OSD, Office of the Secretary of Defense
+OSD/ISA, Office of the Secretary of Defense, Bureau of International Security Affairs, Department of Defense
+OSM, Office of Spectrum Management, National Telecommunications and Information Administration, Department of Commerce"
+35,t_OMB_1,OMB,Office of Management and Budget
+36,t_OPIC_1,OPIC,Overseas Private Investment Corporation
+37,t_PRC_1,PRC,Policy Review Committee; also Panama Review Committee; also People's Republic of China
+38,t_PRM_1,PRM,Presidential Review Memorandum
+39,t_Reforger_1,Reforger,return of forces to Germany
+40,t_SALT_1,SALT,Strategic Arms Limitation Talks or Strategic Arms Limitation Treaty
+41,t_SLBM_1,SLBM,submarine launched ballistic missile
+42,t_SPD_1,SPD,"Sozialdemokratische Partei Deutschlands (German Social Democratic Party), West German political party"
+43,t_TASS_1,TASS,"official Soviet news agency
+TNF, Theater Nuclear Forces
+Todep, telegram indicator for telegrams to the Deputy Secretary of State
+Tosec, telegram indicator for telegrams to the Secretary of State
+TTBT, Threshold Test Ban Treaty
+TV, television"
+44,t_TV_1,TV,television
+45,t_UK_1,U.K.,"United Kingdom U.N., United Nations U.S., United States UANC, United African National Council UCOR, Uranium Enrichment Corporation of South Africa UNDel, United Nations delegation UNGA, United Nations General Assembly UNHCR, United Nations High Commissioner for Refugees UNITA, 
+Uniao Nacional para e Independencia Total de Angola (National Union for the Total Independence of Angola) UNSC, United Nations Security Council UNSR, United Nations Special Representative UNSYG, United Nations Secretary General UNTAG, United Nations Transition Assistance Group USAF, United States Air Force USIA, United States Information Agency USIS, United States Information Service USSR, Union of Soviet Socialist Republics USUN, United States Mission to the United Nations"
+46,t_UN1,UN,"Res Rep, United Nations Resident Representative"
+47,t_UNGA_1,UNGA,United National General Assembly
+48,t_UN_1,UN,"United Nations
+UNGA, United Nations General Assembly UPI, United Press International
+US, United States
+USAID, see AID
+USG, United States Government
+U.S., United States
+USA, United States of America
+USAF, United States Air Force
+USCINCSO, Commander in Chief, Southern Command
+USD/P, Under Secretary of Defense for Policy
+USG, United States Government
+USMILGP, United States Military Group
+USMC, United States Marine Corps
+USN, United States Navy
+USOAS, United States Representative to the Organization of American States
+USS, United States Senate
+USSOUTHCOM, United States Southern Command
+USSR, Union of Soviet Socialist Republics
+USUN, United States United Nations Mission"
+49,t_UPI_1,UPI,United Press International
+50,t_US1,US,United States
+51,t_USG1,USG,United States Government
+52,t_USG_1,USG,United States Government
+53,t_USOC_1,USOC,United States Olympic Committee
+54,t_USSR1,USSR,Union of Soviet Socialist Republics or Soviet Union
+55,t_USSR_1,USSR,Union of Soviet Socialist Republics
+56,t_US_1,U.S.,United States
+57,t_VE_1,V-E,"Victory in Europe Day
+VIP, very important person
+VISTA, Volunteers in Service to America
+VOA, Voice of America
+VPS, Visitor Program Service
+VTR, video tape recording"
+58,t_VOA_1,VOA,Voice of America
+59,t_ZB_1,ZB,"Z, Zulu (Greenwich Mean Time)
+, Zbigniew Brzezinski
+ZBB, zero-based budgeting"
