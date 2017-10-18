@@ -8,19 +8,30 @@ import codecs
 import ConfigParser
 from pandas.api.types import is_string_dtype
 
-PYPATH='/Users/mn2802/Desktop/history-lab/hlab-ipy/'
 
-config = ConfigParser.RawConfigParser()
-config.readfp(open(os.path.join(PYPATH, 'common/mylogin.cnf')))
-db_user = config.get('client', 'user')
-db_pass = config.get('client', 'password')
-db_host = config.get('client', 'host')
+def config(conf_path):
+    config = ConfigParser.RawConfigParser()
+    config.readfp(open(conf_path))
+    return {'db_user': config.get('client', 'user'), 
+            'db_pass': config.get('client', 'password'), 
+            'db_host': config.get('client', 'host')}
 
-def connect_all_dbs():
-    return pymysql.connect(host=db_host, user=user, passwd=pw, charset='utf8')
+def connect_all_dbs(config):
+    return pymysql.connect(host=config['db_host'], 
+                           user=config['db_user'], 
+                           passwd=config['db_pass'], 
+                           charset='utf8')
     
-def connect_db(db_name):
-    return pymysql.connect(host=db_host, user=db_user, passwd=db_pass, db=db_name, charset='utf8')
+def connect_db(db_name, config):
+    return pymysql.connect(host=config['db_host'], 
+                           user=config['db_user'], 
+                           passwd=config['db_pass'], 
+                           db=db_name, 
+                           charset='utf8')
+
+def rowcount(connector, table):
+    count = pd.read_sql("SELECT COUNT(*) FROM " + table + ";", con=connector)
+    return count['COUNT(*)'][0]
 
 def show_tables(connector):
     df = pd.read_sql("SHOW TABLES;", con=connector)
